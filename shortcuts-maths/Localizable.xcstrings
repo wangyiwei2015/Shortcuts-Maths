@@ -1,0 +1,572 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    " - " : {
+      "shouldTranslate" : false
+    },
+    " + " : {
+      "shouldTranslate" : false
+    },
+    " ÷ " : {
+      "shouldTranslate" : false
+    },
+    " × " : {
+      "shouldTranslate" : false
+    },
+    " × Result" : {
+
+    },
+    "[%@]" : {
+      "shouldTranslate" : false
+    },
+    "[%@%@]" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "[%1$@%2$@]"
+          }
+        }
+      },
+      "shouldTranslate" : false
+    },
+    "||Vector||" : {
+
+    },
+    "${operation} ${vectorA} and ${vectorB}" : {
+
+    },
+    "Abs Result" : {
+
+    },
+    "Absolute value for each element of the vector." : {
+
+    },
+    "Calculate ${vectorA} · ${vectorB}" : {
+
+    },
+    "Calculate ${vectorA} × ${vectorB}" : {
+
+    },
+    "Calculates Euclidean Norm, also known as L2 norm, returning scalar." : {
+
+    },
+    "Calculates the correlation of two vectors." : {
+
+    },
+    "Calculates the cross product of two vectors. Only length 3 is allowed" : {
+
+    },
+    "Calculates the dot product of two vectors." : {
+
+    },
+    "Calculates the FFT of input vector." : {
+
+    },
+    "Calculates the RMS of input vector, returns scalar." : {
+
+    },
+    "Clamp ${vector} between ${lowerLimit} and ${upperLimit}" : {
+
+    },
+    "Clamped" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "截断结果"
+          }
+        }
+      }
+    },
+    "Clamps the vector." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "饱和截断向量。"
+          }
+        }
+      }
+    },
+    "Correlation" : {
+
+    },
+    "Correlation of ${vectorA} and ${vectorB}" : {
+
+    },
+    "Create a Nx1 vector." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "创建一个 Nx1 向量"
+          }
+        }
+      }
+    },
+    "Create a vector with input List." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "从输入的数字列表构建Vector向量"
+          }
+        }
+      }
+    },
+    "Create Vector from ${list}" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "从${list}构建向量"
+          }
+        }
+      }
+    },
+    "Debug ${vector}" : {
+
+    },
+    "Debug Description" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "调试信息"
+          }
+        }
+      }
+    },
+    "Dot Result" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "内积结果"
+          }
+        }
+      }
+    },
+    "Element List" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "所有元素作为列表"
+          }
+        }
+      }
+    },
+    "Element-wise abs for ${vector}" : {
+
+    },
+    "Empty" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "空向量"
+          }
+        }
+      }
+    },
+    "FFT of ${vector}" : {
+
+    },
+    "FFT Result" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "FFT结果"
+          }
+        }
+      }
+    },
+    "Fill with Constant" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "填充补齐"
+          }
+        }
+      }
+    },
+    "Filling" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "填充值"
+          }
+        }
+      }
+    },
+    "Hello, world!" : {
+
+    },
+    "If Dimensions Mismatch" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "当维度不一致时"
+          }
+        }
+      }
+    },
+    "Input List" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "列表输入"
+          }
+        }
+      }
+    },
+    "Inverse of ${vector}" : {
+
+    },
+    "Inverse the vector." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "计算逆向量"
+          }
+        }
+      }
+    },
+    "Inversed" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "逆向量"
+          }
+        }
+      }
+    },
+    "Lower Limit" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "下限"
+          }
+        }
+      }
+    },
+    "Magnitude of ${vector}" : {
+
+    },
+    "Mismatch Strategy" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "维度不一致操作"
+          }
+        }
+      }
+    },
+    "Multiply ${vector} by ${scalar}" : {
+
+    },
+    "Normalize ${vector}" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "归一化 ${vector}"
+          }
+        }
+      }
+    },
+    "Normalize the vector." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "归一化向量"
+          }
+        }
+      }
+    },
+    "Normalized" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "归一化向量"
+          }
+        }
+      }
+    },
+    "Operation" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "算符"
+          }
+        }
+      }
+    },
+    "Prints the debug info of the vector." : {
+
+    },
+    "RMS" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "均方根"
+          }
+        }
+      }
+    },
+    "RMS of ${vector}" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "${vector}的均方根RMS值"
+          }
+        }
+      }
+    },
+    "Scalar" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "标量"
+          }
+        }
+      }
+    },
+    "Scalar multiply the vector." : {
+
+    },
+    "Scalar Result" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "乘积结果"
+          }
+        }
+      }
+    },
+    "Shortcuts" : {
+
+    },
+    "Throw Error" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "抛出错误"
+          }
+        }
+      }
+    },
+    "Truncate to Shorter" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "自动截取"
+          }
+        }
+      }
+    },
+    "Upper Limit" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "上限"
+          }
+        }
+      }
+    },
+    "Vector" : {
+      "shouldTranslate" : false
+    },
+    "Vector (%lld elements)" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "向量 (%lld 个值)"
+          }
+        }
+      }
+    },
+    "Vector A" : {
+      "shouldTranslate" : false
+    },
+    "Vector B" : {
+      "shouldTranslate" : false
+    },
+    "Vector literal" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "字面量"
+          }
+        }
+      }
+    },
+    "Vector: Correlation" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vector: 相关"
+          }
+        }
+      }
+    },
+    "Vector: Create from List" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vector: 从列表转换"
+          }
+        }
+      }
+    },
+    "Vector: Create literal" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vector: 字面量创建"
+          }
+        }
+      }
+    },
+    "Vector: Cross Product" : {
+
+    },
+    "Vector: Debug description" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vector: Debug输出"
+          }
+        }
+      }
+    },
+    "Vector: Dot Product" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vector: 计算内积"
+          }
+        }
+      }
+    },
+    "Vector: Element-wise abs" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vector: 按元素取绝对值"
+          }
+        }
+      }
+    },
+    "Vector: Element-wise Compute" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vector: 按元素四则运算"
+          }
+        }
+      }
+    },
+    "Vector: FFT Magnitude" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vector: 傅里叶变换"
+          }
+        }
+      }
+    },
+    "Vector: Inverse" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vector: 逆矩阵"
+          }
+        }
+      }
+    },
+    "Vector: Magnitude (Euclidean Norm)" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vector: 模长"
+          }
+        }
+      }
+    },
+    "Vector: Normalize" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vector: 归一化"
+          }
+        }
+      }
+    },
+    "Vector: Root Mean Square" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vector: 求均方根RMS"
+          }
+        }
+      }
+    },
+    "Vector: Scalar Multiply" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vector: 标量倍乘"
+          }
+        }
+      }
+    },
+    "Vector: Threshold / Clamp" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vector: 饱和截断"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.1"
+}

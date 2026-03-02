@@ -8,17 +8,17 @@
 import SwiftUI
 
 struct ContentView: View {
+    @Environment(\.openURL) var openURL
+    
     var body: some View {
         VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundStyle(.tint)
             Text("Hello, world!")
-        }
-        .padding()
+            
+            Button("Shortcuts") {
+                openURL(URL(string: "shortcuts:")!)
+            }
+        }.padding()
     }
 }
 
-#Preview {
-    ContentView()
-}
+#Preview { ContentView() }
