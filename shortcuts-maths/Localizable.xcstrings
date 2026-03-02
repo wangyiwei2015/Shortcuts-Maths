@@ -204,6 +204,15 @@
         }
       }
     },
+    "For ${vector} slice value from ${iStart} to ${iStop}." : {
+
+    },
+    "From ${vector} get value at ${index}." : {
+
+    },
+    "Get element at some index. Index starts at 1. -N is the last Nth." : {
+
+    },
     "Hello, world!" : {
 
     },
@@ -216,6 +225,9 @@
           }
         }
       }
+    },
+    "Index" : {
+
     },
     "Input List" : {
       "localizations" : {
@@ -365,6 +377,18 @@
     "Shortcuts" : {
 
     },
+    "Slice" : {
+
+    },
+    "Slice the vector within the given range. Index starts at 1. -N is the last Nth." : {
+
+    },
+    "Start" : {
+
+    },
+    "Stop" : {
+
+    },
     "Throw Error" : {
       "localizations" : {
         "zh-Hans" : {
@@ -394,6 +418,9 @@
           }
         }
       }
+    },
+    "Value" : {
+
     },
     "Vector" : {
       "shouldTranslate" : false
@@ -477,6 +504,9 @@
         }
       }
     },
+    "Vector: Element at index" : {
+
+    },
     "Vector: Element-wise abs" : {
       "localizations" : {
         "zh-Hans" : {
@@ -556,6 +586,9 @@
           }
         }
       }
+    },
+    "Vector: Slice in range" : {
+
     },
     "Vector: Threshold / Clamp" : {
       "localizations" : {
